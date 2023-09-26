@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Courier+Prime:wght@700&display=swap');
+
+
+html, body, #root {
+  height: 100%;
+}
+
+.f-title {
+  font-family: 'Comfortaa', cursive;
+}
+
+
+
+body {
+  background-color: #876445;
+}
